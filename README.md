@@ -1,6 +1,6 @@
 # Rock or Mine Prediction System
 
-# Deployment Link: ![Demo at streamlit](https://rock-mine-prediction.streamlit.app/)
+# Deployment Link: [Demo at Streamlit](https://rock-mine-prediction.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-v1.2.2-yellow.svg)
